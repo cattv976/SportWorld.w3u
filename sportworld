@@ -1,0 +1,1508 @@
+{         
+"name": "Sport World",
+"image": "https://img-0.journaldunet.com/OBt0s3fhBuxBk94snV_frtVLvd8=/1500x/smart/4b630c80edbf462ba798f54b9e407bd5/ccmcms-jdn/10371437.jpg", 
+"author": "เด็กปากพนังน่ะครับ",	  
+"stations": 
+[               
+                                
+{
+"name": "Astro Arena",
+"image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astroarena", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Arena 2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astroarena2", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Arena Bola",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/800px-Astro_Arena_Bola_1_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astroarenabola", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Arena Bola 2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/800px-Astro_Arena_Bola_2_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astroarenabola2", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Badminton",
+"image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astrobadminton", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Football",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/800px-Astro_Football_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astrofootball", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Grandstand",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/800px-Astro_Grandstand_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astrograndstand", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Premier League",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/800px-Astro_Premier_League_1_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astropremierleague", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Premier League2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Astro_Premier_League_2_%282024%29.png/800px-Astro_Premier_League_2_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astropremierleague2", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Sport Plus",
+"image": "https://static.wikia.nocookie.net/logopedia/images/6/6a/Astro_Sports_Plus.svg/revision/latest/scale-to-width-down/1200?cb=20241016163753",
+"url": "https://dookeela4.live/live-tv/astrosportsplus", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "Astro Cricket",
+"image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",
+"url": "https://dookeela4.live/live-tv/astrocrickethd", 
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "ARENASPORT1",
+"image": "https://dookeela.live/uploads/1664041294.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/arenasport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},	   
+
+{
+"name": "ARENASPORT2",
+"image": "https://dookeela.live/uploads/1664041506.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/arenasport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},	
+
+{
+"name": "ARENASPORT3",
+"image": "https://dookeela.live/uploads/1664219377.png",
+"url":"https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/arenasport3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},		
+
+{
+"name": "ARENASPORT4",
+"image": "https://dookeela.live/uploads/1664132050.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/arenasport4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},	
+
+{
+"name": "ArenaSport1Premium",
+"image": "https://dookeela.live/uploads/1674194748.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/arenasportpremium1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},	  
+
+{
+"name": "ArenaSport2Premium",
+"image": "https://dookeela.live/uploads/1674194763.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/arenasportpremium2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "ArenaSport3Premium",
+"image": "https://dookeela.live/uploads/1664219377.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/arenasportpremium3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "FR-BEIN1HD",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-bein1hd.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein1hd-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "FR-BEIN2HD",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-bein2hd.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein2hd-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "FR-BEIN3HD",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-bein3hd.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein3hd-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSports4 Max",
+"image": "https://dookeela.live/uploads/1733601219.png",             
+"url":"https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/beinsports4max-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSports5 Max",
+"image": "https://img.sport-tv-guide.live/images/tv-station-bein-sports-5-max-404.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports5max-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSports6 Max",
+"image": "https://static.wikia.nocookie.net/logopedia/images/c/c7/BE_IN_SPORT_MAX_6_HD_2017.jpg/revision/latest/scale-to-width-down/1200?cb=20191022182510",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports6max-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSports7 Max",
+"image": "https://dookeela.live/uploads/1733601777.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports7max-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSports8 Max",
+"image": "https://dookeela.live/uploads/1733602058.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports8max-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSports9 Max",
+"image": "https://dookeela.live/uploads/1733602083.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports9max-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSports10 Max",
+"image": "https://dookeela.live/uploads/1733602113.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports10max-fr.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN1HDTR",
+"image": "https://overseer.blackboxsys.net/images/png/hd-bein1.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports1turkey.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},	
+
+{
+"name": "BEIN2HDTR",
+"image": "https://overseer.blackboxsys.net/images/png/hd-bein2.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports2turkey.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN3HDTR",
+"image": "https://overseer.blackboxsys.net/images/png/hd-bein3.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports3turkey.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN4HDTR",
+"image": "https://overseer.blackboxsys.net/images/png/hd-bein4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsports4turkey.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSPORTSMax1Turkey",
+"image": "https://dookeela2.live/uploads/1674393244.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsportsmax1turkey.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "beINSPORTSMax2Turkey",
+"image": "https://dookeela2.live/uploads/1679591572.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/beinsportsmax2turkey.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN1HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein1.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN2HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein2.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN3HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein3.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN4HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN5HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein5.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein5.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN6HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein6.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein6.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN7HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein7.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein7.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN8HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein8.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein8.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "BEIN9HD",
+"image": "https://api.rentm3u8.com/images/png/hd-bein9.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/bein9.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Canal 11 Protugal",
+"image": "https://dookeela.live/uploads/1663979533.png",             
+"url":"https://cdn1.googlecdnforstreaming.live/live/canal11pt/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"info": "Server warpdooball",
+"playInNatPlayer": "true"},
+
+{
+"name": "Canalsport1",
+"image": "https://api.bigwifegang.org/images/png/pl-canalsport1.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/canalsport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Canalsport2",
+"image": "https://api.bigwifegang.org/images/png/pl-canalsport2.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/canalsport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Canalsport3",
+"image": "https://api.bigwifegang.org/images/png/pl-canalsport3.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/canalsport3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Canalsport4",
+"image": "https://api.bigwifegang.org/images/png/pl-canalsport4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/canalsport4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "DIGISPORT1",
+"image":"https://dookeela.live/uploads/1664126175.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/digisport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 	
+                              	 	            
+{
+"name": "DIGISPORT2",
+"image":"https://dookeela.live/uploads/1667654703.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/digisport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+            
+{
+"name": "DIGISPORT3",
+"image":"https://dookeela.live/uploads/1663980730.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/digisport3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+                              
+{
+"name": "DIGISPORT4",
+"image":"https://dookeela.live/uploads/1667654714.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/digisport4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "DAZN 1 Germany",
+"image":"https://dookeela.live/uploads/1679423986.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/dazn1germany.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "DAZN 2 Germany",
+"image":"https://dookeela.live/uploads/1694286704.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/dazn2germany.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "DAZN 1 | Spain",
+"image":"https://dookeela.live/uploads/1715571844.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/dazn1spain.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "DAZN 2 | Spain",
+"image":"https://dookeela.live/uploads/1715571857.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/dazn2spain.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+ {
+"name": "DAZN 3 | Spain",
+"image":"https://dookeela.live/uploads/1737512608.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/dazn3spain.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+ {
+"name": "DAZN 4 | Spain",
+"image":"https://dookeela.live/uploads/1737512619.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/dazn4spain.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "DAZN F1 (Spain)",
+"image":"https://dookeela.live/uploads/1696279327.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/daznf1spain.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Diema Sport",
+"image": "https://dookeela.live/uploads/1664315169.png",             
+"url": "https://dookeela4.live/live-tv/diemasport1",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+                               
+{
+"name": "Diema Sport 2",
+"image": "https://dookeela.live/uploads/1671566522.png",             
+"url": "https://dookeela4.live/live-tv/diemasport2",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+                
+{
+"name": "Diema Sport 3",
+"image": "https://dookeela.live/uploads/1694717956.png",             
+"url": "https://dookeela4.live/live-tv/diemasport3",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "Eleven Pro League 1",
+"image": "https://dookeela.live/uploads/1722089133.png",             
+"url": "https://dookeela4.live/live-tv/daznproleague1",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},  
+                
+{
+"name": " Eleven Pro League 2",
+"image": "https://dookeela.live/uploads/1722618844.png",             
+"url": "https://dookeela4.live/live-tv/daznproleague2",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},  
+
+{
+"name": " Eleven Sports 1 Portugal",
+"image": "https://dookeela.live/uploads/1664126262.png",             
+"url": "https://dookeela4.live/live-tv/elevensports1pt",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},  
+
+{
+"name": " Eleven Sports 2 Portugal",
+"image": "https://dookeela.live/uploads/1664848123.png",             
+"url": "https://dookeela4.live/live-tv/elevensports2pt",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},  
+
+{
+"name": " Eleven Sports 3 Portugal",
+"image": "https://dookeela.live/uploads/1664848193.png",             
+"url": "https://dookeela4.live/live-tv/elevensports3pt",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},  
+
+{
+"name": " Eleven Sports 4 Portugal",
+"image": "https://dookeela.live/uploads/1679421134.png",             
+"url": "https://dookeela4.live/live-tv/elevensports4pt",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},  
+
+{
+"name": " Eleven Sports 5 Portugal",
+"image": "https://dookeela.live/uploads/1679421151.png",             
+"url": "https://dookeela4.live/live-tv/elevensports5pt",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"}, 
+
+{
+"name": " Eleven Sports 6 Portugal",
+"image": "https://dookeela.live/uploads/1679421165.png",             
+"url": "https://dookeela4.live/live-tv/elevensports6pt",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},   
+                
+{
+"name": "Eurosport 1 | Spain",
+"image": "https://dookeela.live/uploads/1711566124.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/eurosport1spain.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},  
+
+{
+"name": "Eurosport 2 | Spain",
+"image": "https://dookeela.live/uploads/1711566136.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/eurosport2spain.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},  
+                      
+{
+"name": "ESPN1",
+"image": "https://dookeela.live/uploads/1664501652.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+                   	                                	  	  	
+{
+"name": "ESPN2",
+"image": "https://dookeela.live/uploads/1664501662.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},         
+		
+{
+"name": "ESPN3",
+"image": "https://dookeela.live/uploads/1664501676.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},            
+		
+{
+"name": "ESPN4",
+"image": "https://dookeela.live/uploads/1664501687.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/espn4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Foxsport501",
+"image": "https://api.bigwifegang.org/images/png/au-fox501.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport501.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Foxsport502",
+"image": "https://api.bigwifegang.org/images/png/au-fox502.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport502.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Foxsport503",
+"image": "https://api.bigwifegang.org/images/png/au-fox503.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport503.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Foxsport504",
+"image": "https://api.bigwifegang.org/images/png/au-fox504.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport504.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Foxsport505",
+"image": "https://api.bigwifegang.org/images/png/au-fox505.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/foxsport505.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier1",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier01.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier2",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier02.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier3",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier03.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier4",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier04.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier5",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier05.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier5.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier6",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier06.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier6.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier7",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier07.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier7.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier8",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier08.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier8.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier9",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier09.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier9.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Hubpremier10",
+"image": "https://api.letitgooooo.org/images/png/sg-hubpremier10.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier10.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "LaLiga Hypermotion TV",
+"image": "https://dookeela.live/uploads/1718320056.png",                      
+"url": "https://dookeela4.live/live-tv/laliga-hypermotion-tv",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "LaLiga Hypermotion TV 2",
+"image": "https://dookeela.live/uploads/1718320112.png",                      
+"url": "https://dookeela4.live/live-tv/laliga-hypermotion-tv-2",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "LaLiga Hypermotion TV 3",
+"image": "https://dookeela.live/uploads/1718320120.png",                      
+"url": "https://dookeela4.live/live-tv/laliga-hypermotion-tv-3",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "Now Sports 1",
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/nowsports1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Now Sports 2",
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_425_305",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/nowsports2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Now Sports 3",
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_425_305",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/nowsports3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Now Sports 4",
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_425_305",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/nowsports4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Now Sports 5",
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_425_305",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/nowsports5.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Now Sports 6",
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_425_305",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/nowsports6.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Now Sports 7",
+"image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_425_305",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/nowsports7.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Novasport1",
+"image": "https://api.bigwifegang.org/images/png/cz-novasport1.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/novasport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Novasport2",
+"image": "https://api.bigwifegang.org/images/png/cz-novasport2.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/novasport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Novasport3",
+"image": "https://api.bigwifegang.org/images/png/cz-novasport1=3.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/novasport1=3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Novasport4",
+"image": "https://api.bigwifegang.org/images/png/cz-novasport4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/novasport4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "premiersport1",
+"image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/premiersport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "premiersport2",
+"image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/premiersport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Prima Sport 1",
+"image": "https://dookeela.live/uploads/1694689157.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/primasport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Prima Sport 2",
+"image": "https://dookeela.live/uploads/1695249914.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/primasport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "Prima Sport 3",
+"image": "https://dookeela.live/uploads/1695604346.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/primasport3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Prima Sport 4",
+"image": "https://dookeela.live/uploads/1695398839.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/primasport4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Prima Sport 5",
+"image": "https://dookeela.live/uploads/1696610104.png",                      
+"url": "https://dookeela4.live/live-tv/primasport5",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "Rmcsport1",
+"image": "https://api.bigwifegang.org/images/png/fr-rmcsport1.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/rmcsport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Rmcsport2",
+"image": "https://api.bigwifegang.org/images/png/fr-rmcsport2.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/rmcsport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Rmcsport3",
+"image": "https://api.bigwifegang.org/images/png/fr-rmcsport3.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/rmcsport3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Rmcsport4",
+"image": "https://api.bigwifegang.org/images/png/fr-rmcsport4.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/rmcsport4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SPORTKLUB1",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub1.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sportklub1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SPORTKLUB2",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub2.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sportklub2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SPORTKLUB3",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub3.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sportklub3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SPORTKLUB4",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sportklub4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SPORTTV+",
+"image": "https://dookeela.live/uploads/1736239662.png",             
+"url":"https://dookeela4.live/live-tv/sporttvplus",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},   
+                                               
+{
+"name": "SPORTTV1",
+"image": "https://dookeela.live/uploads/1663979709.png",             
+"url":"https://dookeela4.live/live-tv/sporttv1",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},   
+                                             
+{
+"name": "SPORTTV2",
+"image": "https://dookeela.live/uploads/1663979801.png",             
+"url":"https://dookeela4.live/live-tv/sporttv2",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},       
+                               
+{
+"name": "SPORTTV3",
+"image": "https://dookeela.live/uploads/1663980327.png",        
+"url":"https://dookeela4.live/live-tv/sporttv3",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},   
+                	                                               
+{
+"name": "SPORTTV4",
+"image": "https://dookeela.live/uploads/1664041351.png",              
+"url":"https://dookeela4.live/live-tv/sporttv4",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},   
+                 
+{                              
+"name": "SPORTTV5",
+"image": "https://dookeela.live/uploads/1664125991.png",            
+"url":"https://dookeela4.live/live-tv/sporttv5",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},   
+ 
+{                              
+"name": "SPORTTV6",
+"image": "https://dookeela.live/uploads/1736239304.png",            
+"url":"https://dookeela4.live/live-tv/sporttv6",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"}, 
+  
+{                              
+"name": "SPORTTV7",
+"image": "https://dookeela.live/uploads/1736239646.png",            
+"url":"https://dookeela4.live/live-tv/sporttv7",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{                              
+"name": "SSC 1 HD",
+"image": "https://dookeela.live/uploads/1691933533.png",            
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ssc1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{                              
+"name": "SSC 2 HD",
+"image": "https://dookeela.live/uploads/1691934908.png",            
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ssc2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{                              
+"name": "SSC 3 HD",
+"image": "https://dookeela.live/uploads/1691934918.png",            
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ssc3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{                              
+"name": "SSC 4 HD",
+"image": "https://dookeela.live/uploads/1691934931.png",            
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ssc4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{                              
+"name": "SSC 5 HD",
+"image": "https://dookeela.live/uploads/1691934941.png",            
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ssc5.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{                              
+"name": "SSC EXTRA 1",
+"image": "https://dookeela.live/uploads/1691948780.png",            
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sscextra1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{                              
+"name": "SSC EXTRA 2",
+"image": "https://dookeela.live/uploads/1692334268.png",            
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sscextra2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{                              
+"name": "SSC EXTRA 3",
+"image": "https://dookeela.live/uploads/1716487143.png",            
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/sscextra3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Sky Sports F1 | UK",
+"image": "https://dookeela.live/uploads/1712888821.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsf1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},	
+		
+{
+"name": "Sky Sports Football UK",
+"image": "https://dookeela.live/uploads/1664576894.png",                      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsfootball.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+			                                               
+{
+"name": "Sky Sports Golf | UK",
+"image": "https://dookeela.live/uploads/1712888702.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsgolf.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Sky Sports Main Event UK",
+"image": "https://dookeela.live/uploads/1665106057.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsmainevent.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+                	
+{
+"name": "Sky Sports Mix | UK",
+"image": "https://dookeela.live/uploads/1712889285.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsmix.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+                
+{
+"name": "Sky Sports Premier League UK",
+"image": "https://dookeela.live/uploads/1696317833.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportspremierleague.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Sky Sports Racing | UK",
+"image": "https://dookeela.live/uploads/1712889189.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsracing.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": " Sky Sports Tennis | UK",
+"image": "https://dookeela.live/uploads/1712889076.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsaction.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},	
+
+{
+"name": "Sky Sports+",
+"image": "https://dookeela.live/uploads/1725980915.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysportsnews.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SkySport1_NZ",
+"image": "https://api.bigwifegang.org/images/png/nz-skysport1.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport1_nz.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SkySport2_NZ",
+"image": "https://api.bigwifegang.org/images/png/nz-skysport2.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport2_nz.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SkySport3_NZ",
+"image": "https://api.bigwifegang.org/images/png/nz-skysport3.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport3_nz.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SkySport4_NZ",
+"image": "https://api.bigwifegang.org/images/png/nz-skysport4.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport4_nz.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SkySport5_NZ",
+"image": "https://api.bigwifegang.org/images/png/nz-skysport5.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport5_nz.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SkySport6_NZ",
+"image": "https://api.bigwifegang.org/images/png/nz-skysport6.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport6_nz.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SkySport7_NZ",
+"image": "https://api.bigwifegang.org/images/png/nz-skysport7.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport7_nz.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SkySport8_NZ",
+"image": "https://api.bigwifegang.org/images/png/nz-skysport8.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport8_nz.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportPremierleague", 
+"image": "http://smartstreams.org:25461/images/f66b61592000e1d104bf75853184a624.png",  
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportpremierleague.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportVariety1",  
+"image": "http://smartstreams.org:25461/images/7f6471361876fe94a8491544ec6ab05d.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportvariety1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportVariety2",  
+"image": "http://smartstreams.org:25461/images/60e3a4e036c3abbf4740eb0cb8d743dd.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportvariety2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportVariety3",  
+"image": "http://smartstreams.org:25461/images/a2ac70e25ee2ea8021bc45105650030b.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportvariety3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportVariety4", 
+"image":"http://smartstreams.org:25461/images/1a85bf9d84bde2e2d45da5fe53e77a57.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportvariety4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportAction", 
+"image":"http://smartstreams.org:25461/images/a291bc6983e8c863935c00407e5ededb.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportaction.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportRugby", 
+"image": "http://smartstreams.org:25461/images/9f691a96c37b8f546091dba8efabb822.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportrugby.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportGolf", 
+"image": "http://smartstreams.org:25461/images/ca7db8d1aa5e56654aa328d5183bbb24.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportgolf.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportTennis", 
+"image": "http://smartstreams.org:25461/images/5862fc2af67783346c4a9cf02be94ec8.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersporttennis.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportMotorsport", 
+"image": "http://smartstreams.org:25461/images/79420dd4c0a235155c2b734a2f23f982.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportmotorsport.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},		
+
+{
+"name": "SuperSportCricket", 
+"image": "http://smartstreams.org:25461/images/b9802d1c5e9c3f701e357536db3ae64f.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportcricket.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportLaliga", 
+"image": "http://smartstreams.org:25461/images/4dd941ef3bea29faa84850fac6c199bd.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportlaliga.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportGrandstand", 
+"image": "http://smartstreams.org:25461/images/ed92de439f209033d8d4f528be0e188d.png",  
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportgrandstand.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+	
+{
+"name": "SuperSportFootball", 
+"image": "http://smartstreams.org:25461/images/58c8abc77031e450cd22d38a4c374896.png",  
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportfootball.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "SuperSportPSL", 
+"image": "http://smartstreams.org:25461/images/0cf40e67ec7fbaf966b1164a86279adc.png",  
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportpsl.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+	
+{
+"name": "SuperSportMaXimo1", 
+"image": "http://smartstreams.org:25461/images/bb73ada40607e582d516c0e7e6ea684a.png", 
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportmaximo1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+           
+{
+"name": "TSN1",
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn1.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+                                                               
+{
+"name": "TSN2",
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn2.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "TSN3",
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn3.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "TSN4",
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "TSN5",
+"image": "https://overseer.blackboxsys.net/images/png/ca-tsn5.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn5.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "TNTSPORT1",
+"image":"https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tntsport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+	 
+{
+"name": "TNTSPORT2",
+"image":"https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tntsport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "TNTSPORT3",
+"image":"https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tntsport3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "TNTSPORT4",
+"image":"https://api.rentm3u8.com/images/png/uk-espn.png",
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tntsport4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"},
+
+{
+"name": "Ziggosport1",
+"image": "https://api.bigwifegang.org/images/png/nl-ziggosport1.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport1.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+                               
+{
+"name": "Ziggosport2",
+"image": "https://api.bigwifegang.org/images/png/nl-ziggosport2.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport2.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "Ziggosport3",
+"image": "https://api.bigwifegang.org/images/png/nl-ziggosport3.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport3.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 		
+
+{
+"name": "Ziggosport4",
+"image": "https://api.bigwifegang.org/images/png/nl-ziggosport4.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport4.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "Ziggosport5",
+"image": "https://api.bigwifegang.org/images/png/nl-ziggosport5.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport5.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+
+{
+"name": "Ziggosport6",
+"image": "https://api.bigwifegang.org/images/png/nl-ziggosport6.png",             
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/ziggosport6.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+            
+{
+"name": "MUTV(UK)",
+"image": "https://image.roku.com/developer_channels/prod/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png",      
+"url": "https://dookeela4.live/live-tv/mutv",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+{
+"name": "MUTV(UK)",
+"image": "https://image.roku.com/developer_channels/prod/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png",      
+"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/mutv.m3u8",
+"referer": "https://github.com/",
+"info": "Server github",
+"playInNatPlayer": "true"}, 
+                                 		           
+{
+"name": "WWEUS",
+"image": "https://overseer.blackboxsys.net/images/png/us-wwe.png",             
+"url": "https://dookeela4.live/live-tv/wwe",
+"referer": "https://dookeela.live/",
+"info": "Server dookeela",
+"playInNatPlayer": "true"},
+
+
+
+	
+]
+}
