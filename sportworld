@@ -95,259 +95,147 @@
 
 {
 "name": "ARENASPORT1",
-"image": "https://dookeela.live/uploads/1664041294.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport1.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},	   
+"image":"https://madoball.com/upload/13918.jpg",
+"url":"https://godlivetv.io/madoball/13918/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "ARENASPORT2",
-"image": "https://dookeela.live/uploads/1664041506.png",
-"url":"https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/arenasport2.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},	
+"image":"https://madoball.com/upload/13917.jpg",
+"url":"https://godlivetv.io/madoball/13917/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "ARENASPORT3",
-"image": "https://dookeela.live/uploads/1664219377.png",
-"url":"https://github.com/cattv976/m3u8-world-/raw/refs/heads/main/arenasport3.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},		
+"image":"https://madoball.com/upload/13916.jpg",
+"url":"https://godlivetv.io/madoball/13916/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "ARENASPORT4",
-"image": "https://dookeela.live/uploads/1664132050.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasport4.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},	
+"image":"https://madoball.com/upload/13915.jpg",
+"url":"https://godlivetv.io/madoball/13915/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name": "ArenaSport1Premium",
-"image": "https://dookeela.live/uploads/1674194748.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasportpremium1.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},	  
-
-{
-"name": "ArenaSport2Premium",
-"image": "https://dookeela.live/uploads/1674194763.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasportpremium2.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"}, 
-
-{
-"name": "ArenaSport3Premium",
-"image": "https://dookeela.live/uploads/1664219377.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/arenasportpremium3.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"name": "ArenaSport5",
+"image":"https://madoball.com/upload/13071.jpg",
+"url":"https://godlivetv.io/madoball/13071/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "FR-BEIN1HD",
-"image": "https://rentapi.blackboxsys.net/images/png/fr-bein1hd.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein1hd-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/61286.jpg",
+"url":"https://godlivetv.io/madoball/61286/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "FR-BEIN2HD",
-"image": "https://rentapi.blackboxsys.net/images/png/fr-bein2hd.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein2hd-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/61283.jpg",
+"url":"https://godlivetv.io/madoball/61283/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "FR-BEIN3HD",
-"image": "https://rentapi.blackboxsys.net/images/png/fr-bein3hd.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein3hd-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSports4 Max",
-"image": "https://dookeela.live/uploads/1733601219.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports4max-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSports5 Max",
-"image": "https://img.sport-tv-guide.live/images/tv-station-bein-sports-5-max-404.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports5max-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSports6 Max",
-"image": "https://static.wikia.nocookie.net/logopedia/images/c/c7/BE_IN_SPORT_MAX_6_HD_2017.jpg/revision/latest/scale-to-width-down/1200?cb=20191022182510",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports6max-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSports7 Max",
-"image": "https://dookeela.live/uploads/1733601777.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports7max-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSports8 Max",
-"image": "https://dookeela.live/uploads/1733602058.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports8max-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSports9 Max",
-"image": "https://dookeela.live/uploads/1733602083.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports9max-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSports10 Max",
-"image": "https://dookeela.live/uploads/1733602113.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports10max-fr.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "BEIN1HDTR",
-"image": "https://overseer.blackboxsys.net/images/png/hd-bein1.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports1turkey.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},	
-
-{
-"name": "BEIN2HDTR",
-"image": "https://overseer.blackboxsys.net/images/png/hd-bein2.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports2turkey.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "BEIN3HDTR",
-"image": "https://overseer.blackboxsys.net/images/png/hd-bein3.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports3turkey.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "BEIN4HDTR",
-"image": "https://overseer.blackboxsys.net/images/png/hd-bein4.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsports4turkey.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSPORTSMax1Turkey",
-"image": "https://dookeela2.live/uploads/1674393244.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsportsmax1turkey.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "beINSPORTSMax2Turkey",
-"image": "https://dookeela2.live/uploads/1679591572.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/beinsportsmax2turkey.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/61281.jpg",
+"url":"https://godlivetv.io/madoball/61281/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN1HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein1.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein1.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7424.jpg",
+"url":"https://godlivetv.io/madoball/7424/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN2HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein2.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein2.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7423.jpg",
+"url":"https://godlivetv.io/madoball/7423/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN3HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein3.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein3.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7422.jpg",
+"url":"https://godlivetv.io/madoball/7422/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN4HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein4.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein4.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7421.jpg",
+"url":"https://godlivetv.io/madoball/7421/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN5HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein5.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein5.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7420.jpg",
+"url":"https://godlivetv.io/madoball/7420/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN6HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein6.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein6.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7419.jpg",
+"url":"https://godlivetv.io/madoball/7419/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN7HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein7.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein7.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7418.jpg",
+"url":"https://godlivetv.io/madoball/7418/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN8HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein8.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein8.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7417.jpg",
+"url":"https://godlivetv.io/madoball/7417/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "BEIN9HD",
-"image": "https://api.rentm3u8.com/images/png/hd-bein9.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/bein9.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/7416.jpg",
+"url":"https://godlivetv.io/madoball/7416/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+
+{
+"name":"BEIN10HD",
+"image":"https://madoball.com/upload/7415.jpg",
+"url":"https://godlivetv.io/madoball/7415/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "Canal 11 Protugal",
@@ -358,36 +246,12 @@
 "playInNatPlayer": "true"},
 
 {
-"name": "Canalsport1",
-"image": "https://api.bigwifegang.org/images/png/pl-canalsport1.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/canalsport1.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "Canalsport2",
-"image": "https://api.bigwifegang.org/images/png/pl-canalsport2.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/canalsport2.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "Canalsport3",
-"image": "https://api.bigwifegang.org/images/png/pl-canalsport3.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/canalsport3.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "Canalsport4",
-"image": "https://api.bigwifegang.org/images/png/pl-canalsport4.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/canalsport4.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"name": "CBS Sports",
+"image":"https://madoball.com/upload/11921.jpg",
+"url":"https://godlivetv.io/madoball/11921/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
 "name": "DIGISPORT1",
@@ -566,36 +430,36 @@
 "playInNatPlayer": "true"},   
                 
 {
-"name": "Eurosport 1 | Spain",
-"image": "https://dookeela.live/uploads/1711566124.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/eurosport1spain.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},  
+"name": "Eurosport 1",
+"image":"https://madoball.com/upload/11936.jpg",              
+"url":"https://godlivetv.io/madoball/11936/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
 
 {
-"name": "Eurosport 2 | Spain",
-"image": "https://dookeela.live/uploads/1711566136.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/eurosport2spain.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},  
+"name": "Eurosport 2",
+"image":"https://madoball.com/upload/11935.jpg",              
+"url":"https://godlivetv.io/madoball/11935/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},  
                       
 {
 "name": "ESPN1",
-"image": "https://dookeela.live/uploads/1664501652.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/espn1.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/11924.jpg",              
+"url":"https://godlivetv.io/madoball/11924/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
                    	                                	  	  	
 {
 "name": "ESPN2",
-"image": "https://dookeela.live/uploads/1664501662.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/espn2.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},         
+"image":"https://madoball.com/upload/11923.jpg",              
+"url":"https://godlivetv.io/madoball/11923/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},    
 		
 {
 "name": "ESPN3",
@@ -614,20 +478,20 @@
 "playInNatPlayer": "true"},
 
 {
-"name": "Foxsport501",
-"image": "https://api.bigwifegang.org/images/png/au-fox501.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport501.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"name": "Fox Sports 1 USA",
+"image":"https://madoball.com/upload/11926.jpg",              
+"url":"https://godlivetv.io/madoball/11926/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},    
 
 {
-"name": "Foxsport502",
-"image": "https://api.bigwifegang.org/images/png/au-fox502.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/foxsport502.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"name": "Fox Sports 2 USA",
+"image":"https://madoball.com/upload/11925.jpg",              
+"url":"https://godlivetv.io/madoball/11925/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},    
 
 {
 "name": "Foxsport503",
@@ -758,6 +622,14 @@
 "playInNatPlayer": "true"}, 
 
 {
+"name": "NBC Sports",
+"image":"https://madoball.com/upload/11920.jpg",              
+"url":"https://godlivetv.io/madoball/11920/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},  
+
+{
 "name": "Now Sports 1",
 "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305",             
 "url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/nowsports1.m3u8",
@@ -847,11 +719,11 @@
 
 {
 "name": "premiersport1",
-"image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png",             
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/premiersport1.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/1431.jpg",              
+"url":"https://godlivetv.io/madoball/1431/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name": "premiersport2",
@@ -975,43 +847,43 @@
                                                
 {
 "name": "SPORTTV1",
-"image": "https://dookeela.live/uploads/1663979709.png",             
-"url":"https://dookeela4.live/live-tv/sporttv1",
-"referer": "https://dookeela.live/",
-"info": "Server dookeela",
-"playInNatPlayer": "true"},   
+"image":"https://madoball.com/upload/63481.jpg",              
+"url":"https://godlivetv.io/madoball/63481/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
                                              
 {
 "name": "SPORTTV2",
-"image": "https://dookeela.live/uploads/1663979801.png",             
-"url":"https://dookeela4.live/live-tv/sporttv2",
-"referer": "https://dookeela.live/",
-"info": "Server dookeela",
-"playInNatPlayer": "true"},       
+"image":"https://madoball.com/upload/63478.jpg",              
+"url":"https://godlivetv.io/madoball/63478/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},      
                                
 {
 "name": "SPORTTV3",
-"image": "https://dookeela.live/uploads/1663980327.png",        
-"url":"https://dookeela4.live/live-tv/sporttv3",
-"referer": "https://dookeela.live/",
-"info": "Server dookeela",
-"playInNatPlayer": "true"},   
+"image":"https://madoball.com/upload/63475.jpg",              
+"url":"https://godlivetv.io/madoball/63475/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
                 	                                               
 {
 "name": "SPORTTV4",
-"image": "https://dookeela.live/uploads/1664041351.png",              
-"url":"https://dookeela4.live/live-tv/sporttv4",
-"referer": "https://dookeela.live/",
-"info": "Server dookeela",
-"playInNatPlayer": "true"},   
+"image":"https://madoball.com/upload/63472.jpg",              
+"url":"https://godlivetv.io/madoball/63472/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
                  
 {                              
 "name": "SPORTTV5",
-"image": "https://dookeela.live/uploads/1664125991.png",            
-"url":"https://dookeela4.live/live-tv/sporttv5",
-"referer": "https://dookeela.live/",
-"info": "Server dookeela",
-"playInNatPlayer": "true"},   
+"image":"https://madoball.com/upload/63471.jpg",              
+"url":"https://godlivetv.io/madoball/63471/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
  
 {                              
 "name": "SPORTTV6",
@@ -1094,76 +966,60 @@
 "playInNatPlayer": "true"},
 
 {
-"name": "Sky Sports F1 | UK",
-"image": "https://dookeela.live/uploads/1712888821.png",                      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsf1.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},	
+"name": "Sky Sports F1",
+"image":"https://madoball.com/upload/11973.jpg",              
+"url":"https://godlivetv.io/madoball/11973/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 		
 {
-"name": "Sky Sports Football UK",
-"image": "https://dookeela.live/uploads/1664576894.png",                      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsfootball.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"name": "Sky Sports Football",
+"image":"https://madoball.com/upload/11974.jpg",              
+"url":"https://godlivetv.io/madoball/11974/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 			                                               
 {
-"name": "Sky Sports Golf | UK",
-"image": "https://dookeela.live/uploads/1712888702.png",      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsgolf.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": "Sky Sports Main Event UK",
-"image": "https://dookeela.live/uploads/1665106057.png",      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsmainevent.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"name": "Sky Sports Golf",
+"image":"https://madoball.com/upload/11950.jpg",              
+"url":"https://godlivetv.io/madoball/11950/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
                 	
 {
-"name": "Sky Sports Mix | UK",
-"image": "https://dookeela.live/uploads/1712889285.png",      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsmix.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"name": "Sky Sports Mix",
+"image":"https://madoball.com/upload/11975.jpg",              
+"url":"https://godlivetv.io/madoball/11975/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
                 
 {
-"name": "Sky Sports Premier League UK",
-"image": "https://dookeela.live/uploads/1696317833.png",      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportspremierleague.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"name": "Sky Sports Premier League",
+"image":"https://madoball.com/upload/11948.jpg",              
+"url":"https://godlivetv.io/madoball/11948/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
-"name": "Sky Sports Racing | UK",
-"image": "https://dookeela.live/uploads/1712889189.png",      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsracing.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
-
-{
-"name": " Sky Sports Tennis | UK",
-"image": "https://dookeela.live/uploads/1712889076.png",      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsaction.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},	
+"name": "Sky Sports Racing",
+"image":"https://madoball.com/upload/11977.jpg",              
+"url":"https://godlivetv.io/madoball/11977/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name": "Sky Sports+",
-"image": "https://dookeela.live/uploads/1725980915.png",      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/skysportsnews.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/11972.jpg",              
+"url":"https://godlivetv.io/madoball/11972/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name": "SkySport1_NZ",
@@ -1399,35 +1255,35 @@
 
 {
 "name": "TNTSPORT1",
-"image":"https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/tntsport1.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/11947.jpg",              
+"url":"https://godlivetv.io/madoball/11947/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 	 
 {
 "name": "TNTSPORT2",
-"image":"https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/tntsport2.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/11941.jpg",              
+"url":"https://godlivetv.io/madoball/11941/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name": "TNTSPORT3",
-"image":"https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/tntsport3.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/11940.jpg",              
+"url":"https://godlivetv.io/madoball/11940/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name": "TNTSPORT4",
-"image":"https://api.rentm3u8.com/images/png/uk-espn.png",
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/tntsport4.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"},
+"image":"https://madoball.com/upload/11939.jpg",              
+"url":"https://godlivetv.io/madoball/11939/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"},
 
 {
 "name": "Ziggosport1",
@@ -1479,20 +1335,12 @@
             
 {
 "name": "MUTV(UK)",
-"image": "https://image.roku.com/developer_channels/prod/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png",      
-"url": "https://dookeela4.live/live-tv/mutv",
-"referer": "https://dookeela.live/",
-"info": "Server dookeela",
-"playInNatPlayer": "true"},
-
-{
-"name": "MUTV(UK)",
-"image": "https://image.roku.com/developer_channels/prod/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png",      
-"url":"https://github.com/cattv976/sportworld/raw/refs/heads/main/mutv.m3u8",
-"referer": "https://github.com/",
-"info": "Server github",
-"playInNatPlayer": "true"}, 
-                                 		           
+"image":"https://madoball.com/upload/12682.jpg",              
+"url":"https://godlivetv.io/madoball/12682/playlist.m3u8",
+"referer":"https://www.madoball.com/",
+"info":"Server madoball",
+"playInNatPlayer":"true"}, 
+                               		           
 {
 "name": "WWEUS",
 "image": "https://overseer.blackboxsys.net/images/png/us-wwe.png",             
